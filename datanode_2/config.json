@@ -1,0 +1,9 @@
+{
+    "namenode": { "host": "192.168.195.246", "port": 5000 },
+    "datanodes": [
+    { "name": "datanode1", "host": "192.168.195.27", "port": 5001 },
+    { "name": "datanode2", "host": "192.168.195.252", "port": 5002 }
+    ],
+    "client": { "host": "192.168.195.102", "port": 5003 },
+    "replication_factor": 2
+}

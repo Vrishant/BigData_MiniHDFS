@@ -1,0 +1,6 @@
+ID,Name,Feedback
+1,Aarav,"Service was excellent, I got my order within 5 minutes!"
+2,Ananya,"Food was a bit cold but staff were polite."
+3,Reyansh,"Loved the digital ordering system. Super smooth experience!"
+4,Ishita,"Please add more vegetarian options."
+5,Vihaan,"Queue management is way better now, great job!"
